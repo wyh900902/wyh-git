@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class WyhGitApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(WyhGitApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(WyhGitApplication.class, args);
+    }
 }
